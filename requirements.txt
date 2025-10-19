@@ -1,0 +1,4 @@
+requests==2.32.5
+python-dotenv==1.1.1
+psycopg2-binary==2.9.9
+apache-airflow-providers-postgres==5.10.0
