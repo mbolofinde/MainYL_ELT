@@ -1,0 +1,10 @@
+[connections.my_example_connection]
+account = "ZYRJYRB-ZI24996"
+user = "FUSEREMITBOLOFS"
+authenticator = "externalbrowser"
+role = "SYSADMIN"
+warehouse = "<none selected>"
+database = "<none selected>"
+schema = "<none selected>"
+
+smrdJv7ry23sHMi
